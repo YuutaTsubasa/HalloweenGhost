@@ -2,7 +2,7 @@
 
 ![Introduce.png](Introduce.png)
 
-一個在萬聖節前一個禮拜二於[實況](http://yutaii.run/live/22)中製作出來的烤肉小遊戲。
+一個在萬聖節前一個禮拜二於[實況](https://yutaii.run/v/45)中製作出來的烤肉小遊戲。
 
 ## 遊玩方式
 進入[網頁](http://yuuta-tsubasa.studio/HalloweenGhost/)即可遊玩。
